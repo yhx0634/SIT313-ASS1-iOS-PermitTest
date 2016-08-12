@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="PermitTest/PermitTest.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="PermitTest/TestViewController.cs" Line="487" Column="30" />
+      <File FileName="PermitTest/ResultViewController.cs" Line="62" Column="34" />
+      <File FileName="PermitTest/ViewController.cs" Line="20" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PermitTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B9B986BB-1D98-4B4F-B75D-4CBB1E9A1B75" />
+</Properties>

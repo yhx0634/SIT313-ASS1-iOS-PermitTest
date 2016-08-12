@@ -1,0 +1,16 @@
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/LaunchScreen.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/Main.storyboardc/18-view-23.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/Main.storyboardc/Info.plist
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/Main.storyboardc/UINavigationController-16.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/_BundleResourceWithLogicalName.items
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/actool/_PartialAppManifest.items
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/actool/_BundleResourceWithLogicalName.items
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/optimized/
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/optimized/Entitlements.plist
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/bin/iPhone/Ad-Hoc/PermitTest.exe
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/PermitTest.exe
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/bin/iPhone/Ad-Hoc/Newtonsoft.Json.dll
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhone/Ad-Hoc/ibtool/Main.storyboardc/UIViewController-18.nib

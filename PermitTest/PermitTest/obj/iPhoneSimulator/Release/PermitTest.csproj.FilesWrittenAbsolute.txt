@@ -1,0 +1,15 @@
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/18-view-23.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/Info.plist
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/UINavigationController-16.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/optimized/
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/optimized/Entitlements.plist
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/bin/iPhoneSimulator/Release/PermitTest.exe
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/PermitTest.exe
+/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/bin/iPhoneSimulator/Release/Newtonsoft.Json.dll

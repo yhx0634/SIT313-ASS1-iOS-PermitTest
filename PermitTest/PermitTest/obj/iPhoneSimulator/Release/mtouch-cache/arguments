@@ -1,0 +1,39 @@
+# Version: 9.8.1.4 (c7sr0: 3cf8aae)
+# [first argument, ignore] # /Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.8.1.4/bin/mtouch \
+	--cache \
+	/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/mtouch-cache \
+	--sim \
+	/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/bin/iPhoneSimulator/Release/PermitTest.app \
+	--executable \
+	PermitTest \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.3 \
+	--targetver \
+	8.0 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=i386 \
+	--symbollist \
+	/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/obj/iPhoneSimulator/Release/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/packages/Newtonsoft.Json.7.0.1/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/packages/Newtonsoft.Json.7.0.1/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/hongxingyou/Documents/OneDrive/CodeProjects/SIT312-Mobile/PermitTest/PermitTest/bin/iPhoneSimulator/Release//PermitTest.exe \

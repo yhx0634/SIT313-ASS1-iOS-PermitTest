@@ -1,0 +1,14 @@
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\bin\iPhoneSimulator\Debug\PermitTest.exe
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\bin\iPhoneSimulator\Debug\PermitTest.pdb
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\optimized\
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\PermitTest.exe
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\PermitTest.pdb
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\PermitTest.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\obj\iPhoneSimulator\Debug\PermitTest.exe.mdb
+D:\OneDrive\Documents\Deakin\Sit313 Mobile Computing\PermitTest\PermitTest\bin\iPhoneSimulator\Debug\PermitTest.exe.mdb
